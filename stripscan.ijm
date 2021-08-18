@@ -1,3 +1,6 @@
+//Writen by Marie-Claire Blache; 2020, INRAE///
+/////////////////////////////////////////////
+
 //folder with images
 dir = getDirectory("Dossier à analyser ");
 list = getFileList(dir);
